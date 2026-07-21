@@ -35,7 +35,6 @@ Building reliable APIs, services, and data pipelines — with a soft spot for **
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Runtime**
 
@@ -74,11 +73,7 @@ Turns long videos into short vertical clips with subtitles and auto-publishes to
 **FrameForge — AI video SaaS platform** · `Python` `FastAPI` `Playwright` `PostgreSQL` `Docker` · *private, demo on request*
 Multi-service platform (~84k LOC, 17 Compose services) generating and auto-posting short-form video via a Telegram bot. Fault-tolerant PostgreSQL job queue (`FOR UPDATE SKIP LOCKED`, lease-based crash recovery), Playwright browser automation, TOTP 2FA admin panel, and a 7-workflow CI/CD pipeline.
 
-**[byesu-monitor](https://github.com/b0d9a/byesu-monitor)** · `Python`
-Async uptime monitor for the byesu.com inference API — real availability checks with a UP/DOWN state machine and **Telegram alerts** on downtime and recovery.
-
-**[byesusupportbot](https://github.com/b0d9a/byesusupportbot)** · `TypeScript`
-PostgreSQL-backed Telegram support bot for byesu — intent routing, human escalation via forum topics, PII redaction, and transactional SQL migrations.
+**…and more** → [see all my repositories](https://github.com/b0d9a?tab=repositories)
 
 ---
 
