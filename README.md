@@ -92,19 +92,19 @@ Designing systems *around* LLMs with backend-grade safety — fail-closed author
 
 ---
 
-### GitHub Stats
+### At a glance
 
-<div align="center">
-
-![Bohdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=b0d9a&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0d9a&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
+- **Primary languages:** Go, Python (async)
+- **Focus:** backend services, APIs, background workers & queues, AI/LLM tooling
+- **Domains:** fintech / crypto, algorithmic trading, AI SaaS
+- **Scale of recent work:** a ~153k-LOC Go backtesting engine, and two Python AI-SaaS platforms (~45k & ~84k LOC)
+- **Ways of working:** tested (pytest / Go testify), containerized (Docker), shipped via CI/CD (GitHub Actions)
 
 ---
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-olkhovskyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-olkhovskyi-461555217/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdanolhovskij@gmail.com)
+
+📧 **bogdanolhovskij@gmail.com** · 💼 [linkedin.com/in/bohdan-olkhovskyi](https://www.linkedin.com/in/bohdan-olkhovskyi-461555217/)
