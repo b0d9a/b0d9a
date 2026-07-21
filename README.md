@@ -64,13 +64,13 @@ Building reliable APIs, services, and data pipelines — with a soft spot for **
 
 ### Featured Projects
 
-**Quanta — AI-native crypto backtesting** · `Go` `Echo` `MongoDB` `Gemini` · *private, demo on request*
+**[Quanta — AI-native crypto backtesting](https://github.com/b0d9a/quanta-showcase)** · `Go` `Echo` `MongoDB` `Gemini`
 "Cursor for algo trading" — describe a strategy in plain English → structured DSL (Gemini, enforced JSON schema) → a deterministic, look-ahead-free **Go** backtesting engine (~153k LOC). Bounded goroutine worker pools, 22+ exchange REST integrations (Binance OHLCV) with a MongoDB read-through cache, and CI enforcing byte-identical deterministic output.
 
-**Clipperok — AI video-clipping SaaS** · `Python` `FastAPI` `PostgreSQL` `FFmpeg` `Stripe` · *private, demo on request*
+**[Clipperok — AI video-clipping SaaS](https://github.com/b0d9a/clipperok-showcase)** · `Python` `FastAPI` `PostgreSQL` `FFmpeg` `Stripe` · [clipperok.com](https://clipperok.com)
 Turns long videos into short vertical clips with subtitles and auto-publishes to TikTok/Instagram/YouTube. FastAPI + SQLAlchemy/PostgreSQL (~45k LOC, 73-file test suite), a multi-stage "moments" clip-ranking engine, Stripe with idempotent webhooks, JWT + MFA, and 53 Alembic migrations.
 
-**FrameForge — AI video SaaS platform** · `Python` `FastAPI` `Playwright` `PostgreSQL` `Docker` · *private, demo on request*
+**[FrameForge — AI video SaaS platform](https://github.com/b0d9a/frameforge-showcase)** · `Python` `FastAPI` `Playwright` `PostgreSQL` `Docker`
 Multi-service platform (~84k LOC, 17 Compose services) generating and auto-posting short-form video via a Telegram bot. Fault-tolerant PostgreSQL job queue (`FOR UPDATE SKIP LOCKED`, lease-based crash recovery), Playwright browser automation, TOTP 2FA admin panel, and a 7-workflow CI/CD pipeline.
 
 **…and more** → [see all my repositories](https://github.com/b0d9a?tab=repositories)
